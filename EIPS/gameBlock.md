@@ -20,7 +20,6 @@ It is an abstract contract that can be extended to construct games that:
   - Provided the opponent does not also need to reveal something they concealed
 
 ## Motivation
-The motivation section should describe the "why" of this EIP. What problem does it solve? Why should someone want to implement this standard? What benefit does it provide to the Ethereum ecosystem? What use cases does this EIP address?
 The motivation behind this proposal is to establish and encourage a standard for games to use that fit the above criteria.
 This is beneficial to the community because it allows for more interoperability and trust.
 Say a new game contract is released. If it can and is constructed out of a Gameblock, users will be more willig to trust the contract knowing that it follows a predefined standard.
